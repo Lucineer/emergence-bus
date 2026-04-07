@@ -4,4 +4,4 @@ compatibility_date = "2024-01-01"
 account_id = "049ff5e84ecf636b53b162cbb580aae6"
 [[kv_namespaces]]
 binding = "BUS_KV"
-id = ""
+id = "4286232a0a0c4f11ac9a17ec28ae066c"
